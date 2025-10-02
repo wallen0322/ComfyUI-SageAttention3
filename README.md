@@ -3,7 +3,6 @@
 Strict **Sage 3 (Blackwell)** attention for ComfyUI official flows.
 
 - Hot-patches `torch.nn.functional.scaled_dot_product_attention` to `sageattn3.api.sageattn3_blackwell`
-- No legacy fallbacks
 - Prints which backend is active (toggleable)
 
 ## Install
