@@ -1,4 +1,5 @@
 # ComfyUI-SageAttention3
+An experimental node
 
 Strict **Sage 3 (Blackwell)** attention for ComfyUI official flows.
 
